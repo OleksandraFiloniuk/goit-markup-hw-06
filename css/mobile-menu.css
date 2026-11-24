@@ -94,6 +94,7 @@
   gap: 48px;
 }
 .mobile-contacts {
+  font-style: normal;
 }
 .mobile-contacts-list {
   display: flex;
